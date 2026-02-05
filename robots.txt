@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://metsrobotics.github.io/sitemap.xml
