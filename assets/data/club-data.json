@@ -1,0 +1,38 @@
+{
+  "gallery": [
+    {
+      "id": 1,
+      "image": "/assets/img/inaugration.jpeg",
+      "date": "2026-01-28",
+      "title": "Inaugural Ceremony",
+      "description": "Mr. Manu Joseph lighting the lamp. A great start to the revolution."
+    },
+    {
+      "id": 2,
+      "image": "/assets/img/iv.jpeg",
+      "date": "2026-01-29",
+      "title": "First Industrial Visit",
+      "description": "First ever Industrial Visit to Inker Robotics with the new batch of robotics enthusiasts."
+    }
+  ],
+  "news": [
+    {
+      "date": " 2026-02-15 ",
+      "title": "Workshop Loading",
+      "link": "#join",
+      "urgent": true
+    },
+    {
+      "date": " 2026-02-02 ",
+      "title": "Registration Closed",
+      "link": "#join",
+      "urgent": false
+    },
+    {
+      "date": " 2026-01-28 ",
+      "title": "Club Successfully Launched",
+      "link": "#gallery",
+      "urgent": false
+    }
+  ]
+}
